@@ -1,0 +1,29 @@
+# Gridlock Hackathon 2.0 — Traffic Demand Prediction
+# Python 3.10+ recommended. Tested with Python 3.14 on Windows 11.
+
+# Core scientific stack
+pandas==3.0.3
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.8.0
+
+# Gradient boosting
+lightgbm==4.6.0
+
+# Hyperparameter search
+optuna==4.9.0
+
+# Parquet I/O
+pyarrow==24.0.0
+
+# Plotting (used in eda.ipynb)
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# Notebook tooling
+nbformat==5.10.4
+jupyter
+ipykernel
+
+# Install with:
+#   python -m pip install -r requirements.txt

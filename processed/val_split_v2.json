@@ -1,0 +1,31 @@
+{
+  "rule_description": "val_fold = train rows with t_abs in [4617, 4663] (day 48, qhour_of_day 9..55); train_fold = all other train rows. Mirrors the test set's daytime qhour_of_day span (test = day 49, qhour 9..55) exactly one day earlier, yielding a TVD~0 match between val and test qhour distributions.",
+  "t_abs_val_lo": 4617,
+  "t_abs_val_hi": 4663,
+  "train_fold_size": 35448,
+  "val_fold_size": 41851,
+  "val_fold_qhour_range": [
+    9,
+    55
+  ],
+  "val_fold_saturating_geohash_count": 22,
+  "baseline_val_r2_per_gh_qhour_mean": 0.5702046047065322,
+  "tvd_qhour_new_val_vs_test": 0.009068054691090425,
+  "tvd_qhour_old_val_vs_test": 1.0,
+  "val_warm_start_geohashes_covered": 1169,
+  "cold_start_test_geohashes_unreachable": [
+    "qp08ch",
+    "qp08g4",
+    "qp091d",
+    "qp091n",
+    "qp0965",
+    "qp09j5",
+    "qp09tv",
+    "qp09vh",
+    "qp09y0",
+    "qp0dn1"
+  ],
+  "val_rows_with_demand_eq_1": 419,
+  "val_rows_from_saturating_geohashes": 1034,
+  "baseline_val_competition_score": 57.02046047065322
+}

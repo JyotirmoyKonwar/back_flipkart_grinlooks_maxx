@@ -1,0 +1,320 @@
+{
+  "temperature": {
+    "day_hour_means": {
+      "48|0": 16.861614592338597,
+      "48|1": 16.39532005917067,
+      "48|2": 16.30905254480482,
+      "48|3": 16.43360627614376,
+      "48|4": 16.183101571430786,
+      "48|5": 16.462247483788104,
+      "48|6": 16.364913640455843,
+      "48|7": 16.42528971499375,
+      "48|8": 16.48545851978459,
+      "48|9": 16.463949100848588,
+      "48|10": 16.662635920733415,
+      "48|11": 16.28948888655573,
+      "48|12": 16.518142237246828,
+      "48|13": 16.54164694108239,
+      "48|14": 16.22405765503084,
+      "48|15": 16.38836096654882,
+      "48|16": 16.344739314667585,
+      "48|17": 15.9894946976446,
+      "48|18": 16.096859830166157,
+      "48|19": 16.598975959052613,
+      "48|20": 16.594766997638118,
+      "48|21": 16.500280216744574,
+      "48|22": 16.61049264515818,
+      "48|23": 16.269657362973106,
+      "49|0": 16.285140683989837,
+      "49|1": 16.303312110845127,
+      "49|2": 15.974383464904797
+    },
+    "hour_means": {
+      "0": 16.549874951098467,
+      "1": 16.347870028367797,
+      "2": 16.2412960265412,
+      "3": 16.43360627614376,
+      "4": 16.183101571430786,
+      "5": 16.462247483788104,
+      "6": 16.364913640455843,
+      "7": 16.42528971499375,
+      "8": 16.48545851978459,
+      "9": 16.463949100848588,
+      "10": 16.662635920733415,
+      "11": 16.28948888655573,
+      "12": 16.518142237246828,
+      "13": 16.54164694108239,
+      "14": 16.22405765503084,
+      "15": 16.38836096654882,
+      "16": 16.344739314667585,
+      "17": 15.9894946976446,
+      "18": 16.096859830166157,
+      "19": 16.598975959052613,
+      "20": 16.594766997638118,
+      "21": 16.500280216744574,
+      "22": 16.61049264515818,
+      "23": 16.269657362973106
+    },
+    "day_means": {
+      "48": 16.4220954414099,
+      "49": 16.257708125631414
+    },
+    "global_mean": 16.405354323667527
+  },
+  "weather": {
+    "day_hour_modes": {
+      "48|0": "Sunny",
+      "48|1": "Sunny",
+      "48|2": "Sunny",
+      "48|3": "Sunny",
+      "48|4": "Sunny",
+      "48|5": "Sunny",
+      "48|6": "Sunny",
+      "48|7": "Sunny",
+      "48|8": "Sunny",
+      "48|9": "Sunny",
+      "48|10": "Sunny",
+      "48|11": "Sunny",
+      "48|12": "Sunny",
+      "48|13": "Sunny",
+      "48|14": "Sunny",
+      "48|15": "Sunny",
+      "48|16": "Sunny",
+      "48|17": "Sunny",
+      "48|18": "Sunny",
+      "48|19": "Sunny",
+      "48|20": "Sunny",
+      "48|21": "Sunny",
+      "48|22": "Sunny",
+      "48|23": "Sunny",
+      "49|0": "Sunny",
+      "49|1": "Sunny",
+      "49|2": "Sunny"
+    },
+    "hour_modes": {
+      "0": "Sunny",
+      "1": "Sunny",
+      "2": "Sunny",
+      "3": "Sunny",
+      "4": "Sunny",
+      "5": "Sunny",
+      "6": "Sunny",
+      "7": "Sunny",
+      "8": "Sunny",
+      "9": "Sunny",
+      "10": "Sunny",
+      "11": "Sunny",
+      "12": "Sunny",
+      "13": "Sunny",
+      "14": "Sunny",
+      "15": "Sunny",
+      "16": "Sunny",
+      "17": "Sunny",
+      "18": "Sunny",
+      "19": "Sunny",
+      "20": "Sunny",
+      "21": "Sunny",
+      "22": "Sunny",
+      "23": "Sunny"
+    },
+    "day_modes": {
+      "48": "Sunny",
+      "49": "Sunny"
+    },
+    "global_mode": "Sunny"
+  },
+  "modal_overrides": {
+    "qp08ch": {
+      "RoadType": {
+        "value": "Residential",
+        "source": "prefix5"
+      },
+      "NumberofLanes": {
+        "value": "1",
+        "source": "prefix5"
+      },
+      "LargeVehicles": {
+        "value": "Not Allowed",
+        "source": "prefix5"
+      },
+      "Landmarks": {
+        "value": "Yes",
+        "source": "prefix5"
+      }
+    },
+    "qp08g4": {
+      "RoadType": {
+        "value": "Residential",
+        "source": "prefix5"
+      },
+      "NumberofLanes": {
+        "value": "1",
+        "source": "prefix5"
+      },
+      "LargeVehicles": {
+        "value": "Not Allowed",
+        "source": "prefix5"
+      },
+      "Landmarks": {
+        "value": "Yes",
+        "source": "prefix5"
+      }
+    },
+    "qp091d": {
+      "RoadType": {
+        "value": "Residential",
+        "source": "prefix5"
+      },
+      "NumberofLanes": {
+        "value": "1",
+        "source": "prefix5"
+      },
+      "LargeVehicles": {
+        "value": "Not Allowed",
+        "source": "prefix5"
+      },
+      "Landmarks": {
+        "value": "Yes",
+        "source": "prefix5"
+      }
+    },
+    "qp091n": {
+      "RoadType": {
+        "value": "Residential",
+        "source": "prefix5"
+      },
+      "NumberofLanes": {
+        "value": "1",
+        "source": "prefix5"
+      },
+      "LargeVehicles": {
+        "value": "Not Allowed",
+        "source": "prefix5"
+      },
+      "Landmarks": {
+        "value": "Yes",
+        "source": "prefix5"
+      }
+    },
+    "qp0965": {
+      "RoadType": {
+        "value": "Residential",
+        "source": "prefix5"
+      },
+      "NumberofLanes": {
+        "value": "1",
+        "source": "prefix5"
+      },
+      "LargeVehicles": {
+        "value": "Not Allowed",
+        "source": "prefix5"
+      },
+      "Landmarks": {
+        "value": "Yes",
+        "source": "prefix5"
+      }
+    },
+    "qp09j5": {
+      "RoadType": {
+        "value": "Residential",
+        "source": "prefix5"
+      },
+      "NumberofLanes": {
+        "value": "1",
+        "source": "prefix5"
+      },
+      "LargeVehicles": {
+        "value": "Not Allowed",
+        "source": "prefix5"
+      },
+      "Landmarks": {
+        "value": "Yes",
+        "source": "prefix5"
+      }
+    },
+    "qp09tv": {
+      "RoadType": {
+        "value": "Residential",
+        "source": "prefix5"
+      },
+      "NumberofLanes": {
+        "value": "1",
+        "source": "prefix5"
+      },
+      "LargeVehicles": {
+        "value": "Not Allowed",
+        "source": "prefix5"
+      },
+      "Landmarks": {
+        "value": "Yes",
+        "source": "prefix5"
+      }
+    },
+    "qp09vh": {
+      "RoadType": {
+        "value": "Residential",
+        "source": "prefix5"
+      },
+      "NumberofLanes": {
+        "value": "1",
+        "source": "prefix5"
+      },
+      "LargeVehicles": {
+        "value": "Not Allowed",
+        "source": "prefix5"
+      },
+      "Landmarks": {
+        "value": "Yes",
+        "source": "prefix5"
+      }
+    },
+    "qp09y0": {
+      "RoadType": {
+        "value": "Residential",
+        "source": "prefix5"
+      },
+      "NumberofLanes": {
+        "value": "3",
+        "source": "prefix5"
+      },
+      "LargeVehicles": {
+        "value": "Not Allowed",
+        "source": "prefix5"
+      },
+      "Landmarks": {
+        "value": "Yes",
+        "source": "prefix5"
+      }
+    },
+    "qp0dn1": {
+      "RoadType": {
+        "value": "Residential",
+        "source": "prefix5"
+      },
+      "NumberofLanes": {
+        "value": "2",
+        "source": "prefix5"
+      },
+      "LargeVehicles": {
+        "value": "Not Allowed",
+        "source": "prefix5"
+      },
+      "Landmarks": {
+        "value": "Yes",
+        "source": "prefix5"
+      }
+    }
+  },
+  "cold_test_geohashes": [
+    "qp08ch",
+    "qp08g4",
+    "qp091d",
+    "qp091n",
+    "qp0965",
+    "qp09j5",
+    "qp09tv",
+    "qp09vh",
+    "qp09y0",
+    "qp0dn1"
+  ]
+}
